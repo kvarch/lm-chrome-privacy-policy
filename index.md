@@ -6,7 +6,9 @@ title: Política de Privacidade
 # Política de Privacidade
 
 **Extensão:** KV NotebookLM Support Ticket
+
 **Desenvolvedor:** Königsberger Vannucchi Arquitetos Associados
+
 **Última atualização:** 14 de março de 2026
 
 ---
